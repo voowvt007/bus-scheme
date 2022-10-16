@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Add distance calculation feature in vision-eye (#8616)
