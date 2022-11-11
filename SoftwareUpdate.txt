@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Avoid creating -hub dir without processing images (#8334)
