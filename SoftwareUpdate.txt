@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
