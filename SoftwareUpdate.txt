@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix bbox2segment converter (#7814)
