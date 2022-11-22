@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Optimize function calls to method calls (#8507)
