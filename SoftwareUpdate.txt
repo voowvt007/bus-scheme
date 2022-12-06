@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Fix TypeError in check_cfg() (#9245)
