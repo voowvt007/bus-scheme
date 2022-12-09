@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
