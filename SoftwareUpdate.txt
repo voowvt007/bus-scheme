@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Update Colab notebook for YOLOv8.1 (#8660)
