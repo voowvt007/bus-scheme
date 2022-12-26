@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
