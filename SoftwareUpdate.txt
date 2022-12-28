@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Optimize function calls to method calls (#8507)
