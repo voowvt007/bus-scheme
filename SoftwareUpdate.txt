@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Add CoreML Docs Integrations Page (#8063)
