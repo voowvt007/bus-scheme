@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add type hinting to explorer.py (#7388)
