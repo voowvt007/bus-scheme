@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
