@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
