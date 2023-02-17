@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
