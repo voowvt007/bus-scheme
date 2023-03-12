@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
