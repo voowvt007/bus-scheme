@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix cmake requirements for ARM64 (#8589)
