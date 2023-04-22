@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
