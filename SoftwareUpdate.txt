@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
