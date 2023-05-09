@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
