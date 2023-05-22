@@ -1,1 +1,1 @@
-added badges (#45)
+Improve Docs Modes tables (#8266)
