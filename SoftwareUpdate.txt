@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
