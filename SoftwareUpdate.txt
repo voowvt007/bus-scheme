@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
