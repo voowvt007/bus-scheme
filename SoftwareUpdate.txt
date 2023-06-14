@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update mkdocs.yml (#7693)
