@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Add Amazon Sagemaker Docs integrations page (#7293)
