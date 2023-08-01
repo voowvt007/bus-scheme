@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+YOLOv8 INT8 TFLite Inference Example (#7317)
