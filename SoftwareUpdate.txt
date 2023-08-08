@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update mkdocs.yml (#7693)
