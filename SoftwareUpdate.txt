@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
