@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+fix print val map
