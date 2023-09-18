@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update HTTP to HTTPS (#7548)
