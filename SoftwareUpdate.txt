@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Update pyproject.toml and Docs (#7274)
