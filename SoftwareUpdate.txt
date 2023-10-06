@@ -1,1 +1,1 @@
-Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
+Replace onnx2tf usage from CLI to Python (#8429)
