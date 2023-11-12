@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Resize angle, count, and stage on keypoint number change (#7598)
