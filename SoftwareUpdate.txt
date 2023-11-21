@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
