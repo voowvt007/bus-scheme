@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add estimate_speed(region_color) parameter (#8285)
