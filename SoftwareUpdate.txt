@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Explorer with LanceDB, Actions and Docs updates (#7487)
