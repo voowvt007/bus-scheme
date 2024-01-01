@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
