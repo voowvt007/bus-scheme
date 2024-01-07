@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add PR Summary step to Ultralytics Actions (#7675)
