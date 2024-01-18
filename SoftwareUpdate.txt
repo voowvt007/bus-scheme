@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
