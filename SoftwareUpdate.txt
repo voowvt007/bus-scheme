@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Update Colab notebook for YOLOv8.1 (#8660)
