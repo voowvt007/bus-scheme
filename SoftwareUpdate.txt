@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+OpenVino 2024.0.0 (#8726)
