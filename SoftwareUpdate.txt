@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Reverse IoU threshold for NMS docs descriptions (#9151)
