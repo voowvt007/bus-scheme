@@ -1,1 +1,1 @@
-add logs
+Mkdocs updates (#8008)
