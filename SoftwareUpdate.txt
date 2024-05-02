@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
