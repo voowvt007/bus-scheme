@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
