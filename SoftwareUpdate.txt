@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
