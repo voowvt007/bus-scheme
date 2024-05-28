@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
