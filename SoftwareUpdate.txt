@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Compress docs images (#8124)
